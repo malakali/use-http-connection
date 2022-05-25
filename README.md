@@ -15,9 +15,10 @@ $ yarn add use-http-connection
 
 
 # Usage
-import useHttp from 'use-http-connection;
+import useHttp from 'use-http-connection';
 
-Page_about[0] = 'https://testApi;
+Page_about[0] = 'https://testApi';
+
 const [isLoading, data, fetch] = useHttp(Page_about);
 
 

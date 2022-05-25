@@ -1,0 +1,28 @@
+{
+  "name": "use-http-connection",
+  "version": "1.0.0",
+  "description": "A custom hook named useHttp that used to create Http Connection with remote API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\\\\\"Error: no test specified\\\\\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malakali/use-http-connection.git"
+  },
+  "keywords": [
+    "react-native",
+    "custom-hooks",
+    "react-native-component",
+    "react"
+  ],
+  "author": "Malak Ali",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/malakali/use-http-connection/issues"
+  },
+  "homepage": "https://github.com/malakali/use-http-connection#readme",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.71.0"
+  }
+}
